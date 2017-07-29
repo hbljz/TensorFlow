@@ -1,0 +1,2 @@
+a="jggjkh"
+print(a)
